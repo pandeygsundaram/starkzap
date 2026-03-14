@@ -33,3 +33,24 @@ coverage/
 *.pem
 wallets.json
 tasks/
+
+# next.js
+/.next/
+/out/
+/build
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
